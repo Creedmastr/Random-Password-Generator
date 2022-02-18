@@ -6,3 +6,8 @@
 ./__pycache__/
 ./setup.py
 ./.gitignore
+setup.txt
+password.txt
+setup.py
+.gitignore
+
