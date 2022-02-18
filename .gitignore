@@ -1,0 +1,6 @@
+./.vscode/
+./_pycache_/
+./password.txt
+./setup.txt
+./dist/
+./__pycache__/
